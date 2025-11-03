@@ -43,6 +43,10 @@ The UX Design Experiment aims to address critical user experience issues in two 
   • Increase user satisfaction and retention.
   • Reduce abandonment rates during task completion.
   • Foster trust and repeat usage of both app and web services.
+   <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/3b3afd06-09d6-4a21-b56e-69ca2fcbe371" />
+   <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/400f1635-ccb6-444d-8412-923af8387364" />
+   <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0accdaaf-78f5-4e11-9213-babc13c92db1" />
+
 
 ## Result:
 - Health App: Integrated tracking and personalized tips improved user engagement.
